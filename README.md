@@ -16,7 +16,7 @@ It works with the commands:
 ### Database consisted of 3 tables : 
 **Group**[groupName, groupId], 
 **User**[firstName, lastName, userName, groupName], 
-**Task**[Task_Title, Description, userName, Task_Id, groupName]
+**Task**[taskTitle, Description, userName, taskId, groupName]
 
 ### The app is based on Maven. It has to be build.
 

@@ -14,7 +14,7 @@ It works with the commands:
 ### I have used MySQL Workbench in order to create the database and connect to it
 
 ### Database consisted of 3 tables : 
-**Group**[groupname, groupId], 
+**Group**[groupName, groupId], 
 **User**[firstName, lastName, userName, groupName], 
 **Task**[Task_Title, Description, userName, Task_Id, groupName]
 

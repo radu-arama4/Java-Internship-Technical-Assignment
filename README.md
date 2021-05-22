@@ -18,7 +18,7 @@ It works with the commands:
 **User**[firstName, lastName, userName, groupName], 
 **Task**[taskTitle, Description, userName, taskId, groupName]
 
-### The app is based on Maven. It has to be build.
+### This is an Maven app. It has to be build.
 
 Commands:
 
